@@ -1,0 +1,14 @@
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/browser/types/BrowserFirefox.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/browser/BrowserContext.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/page/BasePageMethods.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/page/PageContext.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/util/Retry.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/browser/types/BrowserChrome.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/TestBase.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/driver/DriverContext.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/browser/BrowserType.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/page/BasePage.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/TestInitializationModel.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/browser/types/BrowserMobileChrome.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/util/PropertiesReaderUtil.java
+/Users/tcfkaradeniz/Documents/projects/personal/fab/web-automation-framework/src/main/java/com/fab/webautomationframework/base/browser/BaseBrowser.java
